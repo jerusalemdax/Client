@@ -5,3 +5,5 @@ Saved
 *.sdf
 Build
 Binaries
+*.VC.db
+*.VC.opendb
