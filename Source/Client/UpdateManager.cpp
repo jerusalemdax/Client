@@ -1,4 +1,4 @@
-
+#include "Client.h"
 #include "UpdateManager.h"
 
 FString UpdateManager::HelloWorld() {

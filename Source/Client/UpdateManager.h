@@ -1,6 +1,5 @@
 #pragma once
 
-#include "Client.h"
 #include "UpdateManager.generated.h"
 
 UCLASS()
